@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-style: normal;
+    font-family :'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
+.clock {
+    border:solid rgb(16, 218, 245);
+    border-width: 10px;
+    padding: 25px;
+    border-radius: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(16, 236, 218);
+    font-size: 80px;
+    font-weight: bolder;
+    font-family :Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+    opacity: .8;
+   
+
+
+}
